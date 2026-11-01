@@ -57,3 +57,4 @@ The neural network implemented in this repository consists of the following laye
 * Fully connected layer (hidden -> output)
 
 The input layer size is determined by the input image size (32 x 32 x 3 for CIFAR-10), and the output layer size is determined by the number of classes (10 for CIFAR-10). The hidden layer size can be adjusted to experiment with different model complexities.
+# cifar10
